@@ -1,0 +1,14 @@
+/home/yord0050/RiderProjects/Jakob is a dumbfuck/Jakob is a dumbfuck/obj/Debug/net8.0/Jakob is a dumbfuck.GeneratedMSBuildEditorConfig.editorconfig
+/home/yord0050/RiderProjects/Jakob is a dumbfuck/Jakob is a dumbfuck/obj/Debug/net8.0/Jakob is a dumbfuck.AssemblyInfoInputs.cache
+/home/yord0050/RiderProjects/Jakob is a dumbfuck/Jakob is a dumbfuck/obj/Debug/net8.0/Jakob is a dumbfuck.AssemblyInfo.cs
+/home/yord0050/RiderProjects/Jakob is a dumbfuck/Jakob is a dumbfuck/obj/Debug/net8.0/Jakob is a dumbfuck.csproj.CoreCompileInputs.cache
+/home/yord0050/RiderProjects/Jakob is a dumbfuck/Jakob is a dumbfuck/bin/Debug/net8.0/Jakob is a dumbfuck
+/home/yord0050/RiderProjects/Jakob is a dumbfuck/Jakob is a dumbfuck/bin/Debug/net8.0/Jakob is a dumbfuck.deps.json
+/home/yord0050/RiderProjects/Jakob is a dumbfuck/Jakob is a dumbfuck/bin/Debug/net8.0/Jakob is a dumbfuck.runtimeconfig.json
+/home/yord0050/RiderProjects/Jakob is a dumbfuck/Jakob is a dumbfuck/bin/Debug/net8.0/Jakob is a dumbfuck.dll
+/home/yord0050/RiderProjects/Jakob is a dumbfuck/Jakob is a dumbfuck/bin/Debug/net8.0/Jakob is a dumbfuck.pdb
+/home/yord0050/RiderProjects/Jakob is a dumbfuck/Jakob is a dumbfuck/obj/Debug/net8.0/Jakob is a dumbfuck.dll
+/home/yord0050/RiderProjects/Jakob is a dumbfuck/Jakob is a dumbfuck/obj/Debug/net8.0/refint/Jakob is a dumbfuck.dll
+/home/yord0050/RiderProjects/Jakob is a dumbfuck/Jakob is a dumbfuck/obj/Debug/net8.0/Jakob is a dumbfuck.pdb
+/home/yord0050/RiderProjects/Jakob is a dumbfuck/Jakob is a dumbfuck/obj/Debug/net8.0/Jakob is a dumbfuck.genruntimeconfig.cache
+/home/yord0050/RiderProjects/Jakob is a dumbfuck/Jakob is a dumbfuck/obj/Debug/net8.0/ref/Jakob is a dumbfuck.dll
